@@ -1,10 +1,15 @@
 .container {
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .border {
     border: 6px solid blue;
+}
+
+.border2 {
+    border: 6px solid red;
 }
 
 .backg {
