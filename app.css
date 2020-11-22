@@ -1,5 +1,5 @@
 .container {
-    max-width: 800px;
+    max-width: 1440px;
     margin: 0 auto;
     text-align: center;
 }
@@ -30,4 +30,8 @@ p {
 
 body {
     background-color: steelblue;
+}
+
+.list2 {
+    list-style: none;
 }
