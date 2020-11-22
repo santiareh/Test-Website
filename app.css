@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.border {
+    border: 6px solid blue;
+}
+
+.backg {
+    background-color: chartreuse;
+}
+
+.headerpad {
+    padding: 25px;
+}
+
+p {
+    background-color: cyan;
+}
+
+#test {
+    background-color: gold;
+}
+
+body {
+    background-color: steelblue;
+}
