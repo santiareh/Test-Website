@@ -6,14 +6,17 @@
 
 .border {
     border: 6px solid blue;
+    border-radius: 20px;
 }
 
 .border2 {
     border: 6px solid red;
+    border-radius: 50px;
 }
 
 .backg {
     background-color: chartreuse;
+    padding: 10 px;
 }
 
 .headerpad {
