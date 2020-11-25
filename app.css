@@ -16,7 +16,7 @@
 
 .backg {
     background-color: chartreuse;
-    padding: 10 px;
+    padding: 10px;
 }
 
 .headerpad {
@@ -38,3 +38,14 @@ body {
 .list2 {
     list-style: none;
 }
+
+.image {
+    width: auto;
+    margin: auto;
+    display: block;
+    border-radius: 60%;
+}
+
+.myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
