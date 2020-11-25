@@ -17,6 +17,7 @@
 .backg {
     background-color: chartreuse;
     padding: 10px;
+    border-radius: 15px;
 }
 
 .headerpad {
@@ -25,10 +26,12 @@
 
 p {
     background-color: cyan;
+    border-radius: 50px;
 }
 
 #test {
     background-color: gold;
+    border-radius: 100px;
 }
 
 body {
