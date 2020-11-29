@@ -47,7 +47,17 @@ body {
     height: 900px;
     display: block;
     border-radius: 60%;
+    animation: rotation 100s linear
 }
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
 
 .myfont {
     font-family: "Comic Sans MS", cursive, sans-serif;
