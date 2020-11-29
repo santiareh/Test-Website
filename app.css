@@ -47,7 +47,8 @@ body {
     height: 900px;
     display: block;
     border-radius: 60%;
-    animation: rotation 100s linear
+    animation: rotation 100s linear;
+    animation-delay: 3s;
 }
 
 @keyframes rotation {
