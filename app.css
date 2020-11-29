@@ -43,8 +43,8 @@ body {
 }
 
 .image {
-    width: auto;
-    margin: auto;
+    width: 1250px;
+    height: 900px;
     display: block;
     border-radius: 60%;
 }
